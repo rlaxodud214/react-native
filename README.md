@@ -1,3 +1,5 @@
+Forked to get rid of ViewPropTypes removed error
+
 <h1 align="center">
   <a href="https://reactnative.dev/">
     React Native
